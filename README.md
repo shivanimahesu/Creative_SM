@@ -3,12 +3,12 @@
 Group E
 
 
-Daphne Blanche Rachel Biestro
+- Daphne Blanche Rachel Biestro
 
-Carla Alayon Brooks
+- Carla Alayon Brooks
 
-Chon Hin Ho
+- Chon Hin Ho
 
-Laetitia Isabel
+- Laetitia Isabel
 
-Shivani Mahesu
+- Shivani Mahesu
